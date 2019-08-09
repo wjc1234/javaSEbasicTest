@@ -1,0 +1,13 @@
+import java.util.*;
+public class Text12{
+	public static void main(String[] args){
+	int i = 1;
+	int sum = 0;
+	while(i<=100){
+		sun = sun + 1;
+		i++;
+		}
+		System.out print(sum);
+	}
+	
+}
